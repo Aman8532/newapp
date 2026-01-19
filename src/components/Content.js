@@ -14,7 +14,7 @@ export default function Content({ mode, textColor }) {
       
     >
       <h2>Page Content</h2>
-      <p>This content follows dark / light mode</p>
+      <p>This conntent follows dark / light mode</p>
     </div>
   );
 }
