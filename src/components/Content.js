@@ -13,7 +13,7 @@ export default function Content({ mode, textColor }) {
       }}
       
     >
-      <h2>Page Content</h2>
+      <h2>Page Contentgtnthnh</h2>
       <p>This conntent follows dark / light mode</p>
     </div>
   );
